@@ -1,0 +1,15 @@
+{
+    "short_name": "Hypnogram",
+    "name": "Hypnogram Image Generator",
+    "icons": [
+        {
+            "src": "HypnogramLogo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
